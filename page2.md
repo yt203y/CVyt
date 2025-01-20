@@ -4,4 +4,5 @@
 
 Hello this is weird
 
+[Link to main page](./README.md)
 
