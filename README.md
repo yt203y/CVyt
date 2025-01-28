@@ -52,7 +52,7 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * Y. Tantirungrotechai, Effect of an external electric field and a neighbouring atom on the torsional potential of glyoxal: A computational study, Journal of Molecular Structure: THEOCHEM 624 (2003) 279–286.
 * A.J. Cohen, Y. Tantirungrotechai, Molecular electric properties: An assessment of recently developed functionals, Chemical Physics Letters 299 (1999) 465–472.
 
-##ผลงานหนังสือแปล
+## ผลงานหนังสือแปล
 *เคมี เล่ม 1-2 โดย Raymond Chang
 *Disappearing spoon โดย Sam Kean
 *Prodigal genius   
