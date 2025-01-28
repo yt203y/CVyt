@@ -3,17 +3,24 @@
 * 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
 * 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
 
-
 ## Research Interests
-* Molecular Interactions
-* Quantum Chemical Calculations
-* Molecular Dynamics Simulation
+* Molecular Interactions: weak interactions
+* Quantum Chemical Calculations: spectroscopy, reaction mechanism
+* Molecular Dynamics Simulation: aptamer & lipid simulation
+
+I am also a member of the Thammasat University Research Unit in Innovation of Molecular Hybrid for Biomedical Application (หน่วยวิจัยด้านนวัตกรรมโมเลกุลลูกผสมสำหรับการประยุกต์ด้านชีวการแพทย์แห่งมหาวิทยาลัยธรรมศาสตร์). 
 
 
-## Link to Class taught
+## Class taught
 * 2nd/2024: CM645 (Computational Chem.), CM257(Scientific Communication), CM251 (Math. for Chemists), SC175 (Org.Chem. Lab)
 * 1st/2024: CM730 (Quantum Mechanics and Stat. Thermo.) CM251 (Math. for Chemists), SC174 (Org.Chem. Lab)
 
+## Current Group members
+* Mr.Natthakit Singhanatkaisi (M.Sc. student)
+* Mr.Cao Tri Vu (M.Sc. student)
+* Miss Wandee Inwong (M.Sc. student)
+* Miss Pornpan Philadang (B.Sc. student)
+  
 ## Selected Publications
 * K. Ruamdee, N. Singhanatkaisi, Y. Tantirungrotechai, Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots, Chem. Pap. (2024). [https://doi.org/10.1007/s11696-024-03875-8](https://doi.org/10.1007/s11696-024-03875-8).
 * W. Pornputtapitak, Y. Thiangjit, Y. Tantirungrotechai, Effect of Functional Groups in Lipid Molecules on the Stability of Nanostructured Lipid Carriers: Experimental and Computational Investigations, ACS Omega 9 (2024) 11012–11024. [https://doi.org/10.1021/acsomega.4c00685](https://doi.org/10.1021/acsomega.4c00685).
