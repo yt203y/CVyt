@@ -24,42 +24,12 @@
 ## Contact address
 
 Division of Chemistry, Faculty of Science and Technology,  
-Thammasat University  
+Thammasat University,  
 Klong Luang, Pathum Thani,  
 12120  
 Thailand  
-Email: yt203y@gmail.com, yuthana_t@tu.ac.th
-
-# webtest
-test webpage
-hello 
-**bold wow**
-_italic using_ 
-
-# Header 1 
-
-This is for header 1
-
-## Header 2 
-
-This is for header 2 #comment
-
-### Header 3 
-
-This is for header 2 #comment
-
-This is bullet
-
-* bu1
-* bu2
-* bu3
-
-This is numbered list
-1. this
-1. this is 
-1. this is it
+**E-mail address**: yt203y@gmail.com, yuthana_t@tu.ac.th
 
 
-[Link to page2](./page2.md). 
 
   
