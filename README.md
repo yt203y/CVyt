@@ -11,8 +11,8 @@
 
 
 ## Link to Class taught
-* 2nd/2024: CM645 (Computational Chem), CM251 (Math. for Chemists), SC175 (lab)
-* 1st/2024: CM730 (Quantum Mechanics and Stat. Thermo.) CM251 (Math. for Chemists), SC174 (lab)
+* 2nd/2024: CM645 (Computational Chem.), CM257(Scientific Communication), CM251 (Math. for Chemists), SC175 (Org.Chem. Lab)
+* 1st/2024: CM730 (Quantum Mechanics and Stat. Thermo.) CM251 (Math. for Chemists), SC174 (Org.Chem. Lab)
 
 ## Selected Publications
 * K. Ruamdee, N. Singhanatkaisi, Y. Tantirungrotechai, Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots, Chem. Pap. (2024). [https://doi.org/10.1007/s11696-024-03875-8](https://doi.org/10.1007/s11696-024-03875-8).
