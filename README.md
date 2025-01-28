@@ -23,11 +23,11 @@
 
 ## Contact address
 
-Division of Chemistry, Faculty of Science and Technology,
-Thammasat University
-Klong Luang, Pathum Thani,
-12120
-Thailand
+Division of Chemistry, Faculty of Science and Technology,  
+Thammasat University  
+Klong Luang, Pathum Thani,  
+12120  
+Thailand  
 Email: yt203y@gmail.com, yuthana_t@tu.ac.th
 
 # webtest
