@@ -21,6 +21,8 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * รองผู้อำนวยการสำนักงานวิทยาศาสตร์และเทคโนโลยีชั้นสูง (TUSAT)
 * ผู้อำนวยการศูนย์เครื่องมือวิทยาศาสตร์เพื่อการวิจัยชั้นสูง (TUCSEAR)
 
+
+
 ## Class taught
 * 2nd/2024:
        * CM645 (Computational Chem.)
@@ -49,6 +51,16 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * Y. Tantirungrotechai, K. Phanasant, S. Roddecha, P. Surawatanawong, V. Sutthikhum, J. Limtrakul, Scaling factors for vibrational frequencies and zero-point vibrational energies of some recently developed exchange-correlation functionals, J. Mol. Struct. (THEOCHEM) 760 (2006) 189–192. https://doi.org/10.1016/j.theochem.2005.12.007.
 * Y. Tantirungrotechai, Effect of an external electric field and a neighbouring atom on the torsional potential of glyoxal: A computational study, Journal of Molecular Structure: THEOCHEM 624 (2003) 279–286.
 * A.J. Cohen, Y. Tantirungrotechai, Molecular electric properties: An assessment of recently developed functionals, Chemical Physics Letters 299 (1999) 465–472.
+
+##ผลงานหนังสือแปล
+*เคมี เล่ม 1-2 โดย Raymond Chang
+*Disappearing spoon โดย Sam Kean
+*Prodigal genius   
+*Napoleon's button 
+*17 Equations that changed the world 
+*Discoveries 
+*Molecules at an exhibition by John Emsley
+*Nanotechnology: Special issue of Scientific American
 
 
 ## Contact address
