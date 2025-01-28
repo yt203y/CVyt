@@ -12,8 +12,15 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 
 
 ## Class taught
-* 2nd/2024: CM645 (Computational Chem.), CM257(Scientific Communication), CM251 (Math. for Chemists), SC175 (Org.Chem. Lab)
-* 1st/2024: CM730 (Quantum Mechanics and Stat. Thermo.) CM251 (Math. for Chemists), SC174 (Org.Chem. Lab)
+* 2nd/2024:
+       * CM645 (Computational Chem.)
+       * CM257(Scientific Communication)
+       * CM251 (Math. for Chemists)
+       * SC175 (Org.Chem. Lab)
+* 1st/2024:
+       * CM730 (Quantum Mechanics and Stat. Thermo.)
+       * CM251 (Math. for Chemists)
+       * SC174 (Org.Chem. Lab)
 
 ## Current Group members
 * Mr.Natthakit Singhanatkaisi (M.Sc. student)
