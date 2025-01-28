@@ -1,12 +1,14 @@
+
+## Education
+* 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
+* 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
+
+
 ## Research Interests
 * Molecular Interactions
 * Quantum Chemical Calculations
 * Molecular Dynamics Simulation
 
-
-## Education
-* 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
-* 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
 
 ## Link to Class taught
 * 2nd/2024: CM645 (Computational Chem), CM251 (Math. for Chemists), SC175 (lab)
