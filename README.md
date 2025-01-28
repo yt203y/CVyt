@@ -8,6 +8,9 @@
 * 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
 * 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
 
+## Link to Class taught
+* 2nd/2024: CM645 (Computational Chem), CM251 (Math. for Chemists), SC175 (lab)
+* 1st/2024: CM730 (Quantum Mechanics and Stat. Thermo.) CM251 (Math. for Chemists), SC174 (lab)
 
 ## Selected Publications
 * K. Ruamdee, N. Singhanatkaisi, Y. Tantirungrotechai, Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots, Chem. Pap. (2024). [https://doi.org/10.1007/s11696-024-03875-8](https://doi.org/10.1007/s11696-024-03875-8).
@@ -21,15 +24,14 @@
 * Y. Tantirungrotechai, Effect of an external electric field and a neighbouring atom on the torsional potential of glyoxal: A computational study, Journal of Molecular Structure: THEOCHEM 624 (2003) 279–286.
 * A.J. Cohen, Y. Tantirungrotechai, Molecular electric properties: An assessment of recently developed functionals, Chemical Physics Letters 299 (1999) 465–472.
 
-## Contact address
 
+## Contact address
 Division of Chemistry, Faculty of Science and Technology,  
 Thammasat University,  
 Klong Luang, Pathum Thani,  
 12120  
 Thailand  
 **E-mail address**: yt203y@gmail.com, yuthana_t@tu.ac.th
-
 
 
   
