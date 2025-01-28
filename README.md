@@ -53,14 +53,14 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * A.J. Cohen, Y. Tantirungrotechai, Molecular electric properties: An assessment of recently developed functionals, Chemical Physics Letters 299 (1999) 465–472.
 
 ## ผลงานหนังสือแปล
-*เคมี เล่ม 1-2 โดย Raymond Chang
-*Disappearing spoon โดย Sam Kean
-*Prodigal genius   
-*Napoleon's button 
-*17 Equations that changed the world 
-*Discoveries 
-*Molecules at an exhibition by John Emsley
-*Nanotechnology: Special issue of Scientific American
+* เคมี เล่ม 1-2 โดย Raymond Chang
+* Disappearing spoon โดย Sam Kean
+* Prodigal genius   
+* Napoleon's button 
+* 17 Equations that changed the world 
+* Discoveries 
+* Molecules at an exhibition by John Emsley
+* Nanotechnology: Special issue of Scientific American
 
 
 ## Contact address
