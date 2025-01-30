@@ -1,28 +1,28 @@
 
-## Research Interests
+## งานวิจัย/ Research Interests
 * Molecular Interactions: weak interactions
 * Quantum Chemical Calculations: spectroscopy, reaction mechanism
 * Molecular Dynamics Simulation: aptamer & lipid simulation
 
 I am also a member of the Thammasat University Research Unit in Innovation of Molecular Hybrid for Biomedical Application (หน่วยวิจัยด้านนวัตกรรมโมเลกุลลูกผสมสำหรับการประยุกต์ด้านชีวการแพทย์แห่งมหาวิทยาลัยธรรมศาสตร์). 
 
-## Education
+## การศึกษา/ Education
 * 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
 * 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
   
-## ประสบการณ์งานบริหาร&อื่นๆ (Past Administrative & Other Experiences) 
+## ประสบการณ์งานบริหารในอดีต&อื่นๆ/ Past Administrative & Other Experiences
 * ประธานหลักสูตรบัณฑิตศึกษา เคมีเชิงฟิสิกส์ ม.มหิดล
 * ผู้เชี่ยวชาญ ฝ่ายพัฒนาเยาวชน (YSTP) สวทช. 
 * คณะทำงาน รัฐมนตรี กระทรวงวิทยาศาสตร์ เทคโนโลยีและสิ่งแวดล้อม
 * หัวหน้าภาควิชาเคมี คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์
 * ประธานหลักสูตรปริญญาเอก เคมี ม.ธรรมศาสตร์
-* รองผู้อำนวยการ และ ผู้อำนวยการ โครงการ ห้องเรียน วมว. มธ.-สกร
+* ผู้อำนวยการ โครงการ ห้องเรียน วมว. มธ.-สกร
 * กรรมการสภาอาจารย์ ประเภททั่วไป
 * รองผู้อำนวยการสำนักงานวิทยาศาสตร์และเทคโนโลยีชั้นสูง (TUSAT)
 * ผู้อำนวยการศูนย์เครื่องมือวิทยาศาสตร์เพื่อการวิจัยชั้นสูง (TUCSEAR)
 
 
-## Class taught
+## วิชาที่สอน/Class taught
 * 2nd/2024:
   * CM645 (Computational Chem.)
   * CM257(Scientific Communication)
@@ -33,13 +33,13 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
   * CM251 (Math. for Chemists)
   * SC174 (Org.Chem. Lab)
 
-## Current Group members
+## สมาชิกกลุ่มวิจัย/ Current Group members
 * Mr.Natthakit Singhanatkaisi (M.Sc. student)
 * Mr.Cao Tri Vu (M.Sc. student)
 * Miss Wandee Inwong (M.Sc. student)
 * Miss Pornpan Philadang (B.Sc. student)
   
-## Selected Publications
+## ตัวอย่างผลงานตีพิมพ์/ Selected Publications
 * K. Ruamdee, N. Singhanatkaisi, Y. Tantirungrotechai, Theoretical study of hydrogen/methyl chalcogenides (H2X and CH3XH, X = S, Se) adsorption on pristine/doped graphene quantum dots, Chem. Pap. (2024). [https://doi.org/10.1007/s11696-024-03875-8](https://doi.org/10.1007/s11696-024-03875-8).
 * W. Pornputtapitak, Y. Thiangjit, Y. Tantirungrotechai, Effect of Functional Groups in Lipid Molecules on the Stability of Nanostructured Lipid Carriers: Experimental and Computational Investigations, ACS Omega 9 (2024) 11012–11024. [https://doi.org/10.1021/acsomega.4c00685](https://doi.org/10.1021/acsomega.4c00685).
 * P. Watcharapo, J. Arunpanichlert, P. Rotkrua, B. Soontornworajit, Y. Tantirungrotechai, Interaction study of Dox-incorporated AS1411 aptamer and nucleolin by molecular dynamics simulation, Molec. Simulation 49 (2023) 1051–1060. [https://doi.org/10.1080/08927022.2023.2211173](https://doi.org/10.1080/08927022.2023.2211173).
@@ -51,7 +51,7 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * Y. Tantirungrotechai, Effect of an external electric field and a neighbouring atom on the torsional potential of glyoxal: A computational study, Journal of Molecular Structure: THEOCHEM 624 (2003) 279–286.
 * A.J. Cohen, Y. Tantirungrotechai, Molecular electric properties: An assessment of recently developed functionals, Chemical Physics Letters 299 (1999) 465–472.
 
-## ผลงานหนังสือแปล
+## ผลงานหนังสือแปล/ Translation
 * เคมี เล่ม 1-2 โดย Raymond Chang
 * Disappearing spoon โดย Sam Kean
 * Prodigal genius   โดย John Joseph O'Neill
@@ -62,13 +62,13 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * Nanotechnology: Special issue of Scientific American
 
 
-## Contact address
+## ติดต่อ/ Contact address
 Division of Chemistry, Faculty of Science and Technology,  
 Thammasat University,  
 Klong Luang, Pathum Thani,  
 12120  
 Thailand  
-**E-mail address**: yt203y@gmail.com, yuthana_t@tu.ac.th
+**E-mail address**: [yt203y@gmail.com](mailto:yt203y@gmail.com), [yuthana_t@tu.ac.th](mailto:yuthana_t@tu.ac.th)
 
 
   
