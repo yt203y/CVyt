@@ -1,8 +1,4 @@
 
-## Education
-* 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
-* 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
-
 ## Research Interests
 * Molecular Interactions: weak interactions
 * Quantum Chemical Calculations: spectroscopy, reaction mechanism
@@ -10,7 +6,11 @@
 
 I am also a member of the Thammasat University Research Unit in Innovation of Molecular Hybrid for Biomedical Application (หน่วยวิจัยด้านนวัตกรรมโมเลกุลลูกผสมสำหรับการประยุกต์ด้านชีวการแพทย์แห่งมหาวิทยาลัยธรรมศาสตร์). 
 
-## ประสบการณ์งานบริหาร
+## Education
+* 1995-1999: Ph.D. in Theoretical Chemistry, University of Cambridge, UK
+* 1991-1995: B.Sc. (with first class honors) in Chemistry, Mahidol University, Thailand
+  
+## ประสบการณ์งานบริหาร&อื่นๆ (Past Administrative & Other Experiences) 
 * ประธานหลักสูตรบัณฑิตศึกษา เคมีเชิงฟิสิกส์ ม.มหิดล
 * ผู้เชี่ยวชาญ ฝ่ายพัฒนาเยาวชน (YSTP) สวทช. 
 * คณะทำงาน รัฐมนตรี กระทรวงวิทยาศาสตร์ เทคโนโลยีและสิ่งแวดล้อม
@@ -20,7 +20,6 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 * กรรมการสภาอาจารย์ ประเภททั่วไป
 * รองผู้อำนวยการสำนักงานวิทยาศาสตร์และเทคโนโลยีชั้นสูง (TUSAT)
 * ผู้อำนวยการศูนย์เครื่องมือวิทยาศาสตร์เพื่อการวิจัยชั้นสูง (TUCSEAR)
-
 
 
 ## Class taught
@@ -55,11 +54,11 @@ I am also a member of the Thammasat University Research Unit in Innovation of Mo
 ## ผลงานหนังสือแปล
 * เคมี เล่ม 1-2 โดย Raymond Chang
 * Disappearing spoon โดย Sam Kean
-* Prodigal genius   
-* Napoleon's button 
-* 17 Equations that changed the world 
-* Discoveries 
-* Molecules at an exhibition by John Emsley
+* Prodigal genius   โดย John Joseph O'Neill
+* Napoleon's button โดย Jay Burreson and Penny Le Couteur
+* 17 Equations that changed the world โดย Ian Stewart
+* The Discoveries โดย Alan Lightman
+* Molecules at an exhibition โดย John Emsley
 * Nanotechnology: Special issue of Scientific American
 
 
